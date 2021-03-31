@@ -46,4 +46,5 @@ class Potencia():
 a = int(input(" Ingrese Valor A: "))
 b = int(input(" Ingrese Valor B: "))
 
+
 Potencia(a,b)
